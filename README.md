@@ -1,2 +1,0 @@
-# TimerFinal
-Created with CodeSandbox
